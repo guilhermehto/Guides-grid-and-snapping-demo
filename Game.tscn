@@ -7,7 +7,7 @@
 [node name="Game" type="Node" index="0"]
 
 __meta__ = {
-"_edit_horizontal_guides_": [  ]
+"_edit_horizontal_guides_": [ 264.0 ]
 }
 
 [node name="GUI" parent="." index="0" instance=ExtResource( 1 )]

@@ -2,7 +2,7 @@
 
 [ext_resource path="res://map/props/Obstacle.tscn" type="PackedScene" id=1]
 
-[node name="Map" type="Node2D"]
+[node name="Map" type="Node2D" index="0"]
 
 [node name="Obstacle" parent="." index="0" instance=ExtResource( 1 )]
 
