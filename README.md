@@ -5,7 +5,7 @@
 *Present myself to begin with*
 
 - UI Creation envolves a lot of lining control nodes correctly and mantaining proportions
-- Godot provides tools for us to use when we are dealing with theses kinds of tasks (lining things up, keeping proportions)
+- Godot provides tools for us to use when we are dealing with theses kinds of tasks
 - In this video, we'll take a look on...
 	- Grid snapping
 	- Smart Snapping
@@ -30,7 +30,7 @@
 	- The offset setting will add an offset on the X and Y if needed.
 		- The grid starts off at the origin of your game (X= 0; Y =0)
 		- In case we don't want it to start there, we can add an offset to it
-- The grid also works on 2D nodes, and it's usually a good idea to always keep it on when placing and moving nodes as it'll help us keep things aligned correctly
+- The grid also works on 2D nodes, and it's usually a good idea to always keep it on when placing and moving nodes as it'll help us keep them aligned correctly
 
 ### Guides and Smart Snapping
 - When the grid isn't enough, you can use guides and Smart Snapping to help you create your UI or game world
