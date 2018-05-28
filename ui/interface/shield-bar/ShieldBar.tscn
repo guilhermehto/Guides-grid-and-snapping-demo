@@ -1,0 +1,19 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://ui/interface/health-bar/HealthBar.tscn" type="PackedScene" id=1]
+[ext_resource path="res://ui/interface/shield-bar/shield_bar_filled.png" type="Texture" id=2]
+
+
+
+
+[node name="ShieldBar" instance=ExtResource( 1 )]
+
+editor/display_folded = false
+texture_progress = ExtResource( 2 )
+fill_mode = 1
+
+[node name="Label" parent="." index="0"]
+
+text = "SHIELD"
+
+
